@@ -5,9 +5,7 @@
 
 int main()
 {
-    std::cout << "コンフリクトしたので変更しました\n";
-
-    std::cout << "ブランチの追加\n";
+    std::cout << "Hello World!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
